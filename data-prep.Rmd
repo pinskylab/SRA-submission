@@ -50,8 +50,8 @@ sample_ids <- samp_from_lig(ligation_ids) %>%
 
 ```
 
-
+# Export the data in tab delimited format 
 ```{r}
-
+write_tsv(sample_ids, "amphiprion-clarkii.tsv")
 ```
 
