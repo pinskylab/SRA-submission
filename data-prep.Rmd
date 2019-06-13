@@ -1,0 +1,57 @@
+---
+title: "R Notebook"
+output: html_notebook
+---
+
+Prepping data to add to SRA
+
+```{r setup, include=FALSE}
+# load libraries
+pacman::p_load(tidyverse, clownfish)
+# library(tidyverse)
+
+# connect to data
+# because the myconfig db connection is still not working
+source("~/Documents/clownfish-pkg/R/db_connections.R")
+leyte <- read_db("Leyte")
+lab <- read_db("Laboratory")
+```
+# Import the template 
+The first 11 rows are instructions
+```{r message=FALSE}
+template <- read_tsv("Model.organism.animal.1.0.tsv", skip = 11)
+
+```
+# Import the data
+```{r}
+ligation_ids <- read_genepop("~/Documents/genomics_pinskylab/data/seq33_03_baits_only_SNPs.gen") %>% 
+  # choose only the names column
+  select(names) %>% 
+  # remove APCL_ from the ligation_id
+  mutate(ligation_id = str_extract(names, "L\\d+")) %>% 
+  # remove the names column
+  select(-names)
+
+# bring in fish data from database
+fish <- fish_anem_dive() %>% 
+  filter(!is.na(sample_id)) %>% 
+  select(sample_id, sex, date)
+
+#what are the sample_ids for these ligation_ids
+sample_ids <- samp_from_lig(ligation_ids) %>% 
+  rename(sample_name = sample_id) %>% 
+  # Add the organism
+  mutate(organism = "Amphiprion clarkii", 
+         isolate = "not applicable", 
+         tissue = "tail fin") %>% 
+  left_join(fish, by = c("sample_name" = "sample_id")) %>% 
+  rename(collection_date = date)
+
+
+```
+
+
+```{r}
+
+```
+
