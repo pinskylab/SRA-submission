@@ -7,12 +7,16 @@ Prepping data to add to SRA
 
 ```{r setup, include=FALSE}
 # load libraries
-pacman::p_load(tidyverse, clownfish)
-# library(tidyverse)
+# pacman::p_load(tidyverse, clownfish)
+library(tidyverse)
+source("~/Documents/clownfishr/R/gen-data-funs.R")
+source("~/Documents/clownfishr/R/field-data-funs.R")
+source("~/Documents/clownfishr/R/lab-data-funs.R")
+source("~/Documents/clownfish-pkg/R/funs-lab-meta.R")
 
 # connect to data
 # because the myconfig db connection is still not working
-source("~/Documents/clownfish-pkg/R/db_connections.R")
+source("~/db-connections.R")
 leyte <- read_db("Leyte")
 lab <- read_db("Laboratory")
 ```
@@ -26,11 +30,11 @@ template <- read_tsv("Model.organism.animal.1.0.tsv", skip = 11)
 ```{r}
 ligation_ids <- read_genepop("~/Documents/genomics_pinskylab/data/seq33_03_baits_only_SNPs.gen") %>% 
   # choose only the names column
-  select(names) %>% 
+  select(sample) %>% 
   # remove APCL_ from the ligation_id
-  mutate(ligation_id = str_extract(names, "L\\d+")) %>% 
+  mutate(ligation_id = str_extract(sample, "L\\d+")) %>% 
   # remove the names column
-  select(-names)
+  select(-sample)
 
 # bring in fish data from database
 fish <- fish_anem_dive() %>% 
@@ -49,9 +53,100 @@ sample_ids <- samp_from_lig(ligation_ids) %>%
 
 
 ```
+# SRA did not like repeat sample_ids.  Removing sample_ids and keeping only ligation ids
+```{r}
+lig_only <- sample_ids %>% 
+  select(-sample_name) %>% 
+  rename(sample_name = ligation_id)
+```
+# Apparently there are also duplicate ligation_ids
+```{r}
+dups <- sample_ids %>% 
+  group_by(ligation_id) %>% 
+  count() %>% 
+  filter(n > 1)
+```
+# According to this code, there are not duplicates.  However, the wording looks like maybe they want unique individuals, as in individuals that were not collected on the same day.
+"Your table upload failed because multiple BioSamples cannot have identical attributes. You should have one BioSample for each specimen, and each of your BioSamples must have differentiating information (excluding sample name, title, bioproject accession and description). This check was implemented to encourage submitters to include distinguishing information in their samples. If the distinguishing information is in the sample name, title or description, please recode it into an appropriate attribute, either one of the predefined attributes or a custom attribute you define. If it is necessary to represent true biological replicates as separate BioSamples, you might add an 'aliquot' or 'replicate' attribute, e.g., 'replicate = biological replicate 1', as appropriate. Note that multiple assay types, e.g., RNA-seq and ChIP-seq data may reference the same BioSample if appropriate."
+# To get past this, I am going to include ligation_id in sample name and also include a column called ligation_id (a custom attribute).
+```{r}
+samp_lig <- sample_ids %>% 
+  mutate(sample_name = str_c(sample_name, ligation_id, sep = "_"))
+```
+
+# SRA requires that we change M to male and F to female and that we define age, development stage
+```{r}
+samp_lig <- samp_lig %>% 
+  mutate(sex = ifelse(sex == "M", "male", sex), 
+         sex = ifelse(sex == "F", "female", sex), 
+         sex = ifelse(sex == "J", "not applicable", sex), 
+         dev_stage = ifelse(sex == "not applicable", "juvenile", NA),
+         dev_stage = ifelse(sex != "not applicable", "adult", dev_stage)) %>% 
+  arrange(ligation_id)
+```
+
+
+# SRA requires that these files are 1000 lines or less
+```{r}
+table1 <- samp_lig %>% 
+  slice(1:999)
+table2 <- samp_lig %>% 
+  slice(1000:1998)
+table3 <- samp_lig %>% 
+  slice(1998:2886)
+```
 
 # Export the data in tab delimited format 
 ```{r}
-write_tsv(sample_ids, "amphiprion-clarkii.tsv")
+write_tsv(table1, "amphiprion-clarkii-table1.tsv")
+write_tsv(table2, "amphiprion-clarkii-table2.tsv")
+write_tsv(table3, "amphiprion-clarkii-table3.tsv")
 ```
 
+# Log on to https://submit.ncbi.nlm.nih.gov/subs/sra/SUB4607463/attributes and upload the table, then hit continue.
+
+# The next step is to add metadata
+View the SRA_metadata_PADE.xlsx file in excel
+```{r}
+# template2 <- readxl::read_xlsx("SRA_metadata_PADE.xlsx")
+```
+# create table for clarkii data
+```{r}
+metadata <- samp_lig %>% 
+  rename(library_ID = ligation_id) %>% 
+  mutate(title = "ddRADseq of Amphiprion clarkii", 
+         library_strategy = "RAD-Seq", 
+         library_source = "GENOMIC", 
+         library_selection = "Reduced Representation", 
+         library_layout = "single", 
+         platform = "Illumina", 
+         instrument_model = "Illumina HiSeq 2500", 
+         design_description = "ddRADseq using PstI and MluCI, and size selected to 375 ± 38 bp", 
+         filetype = "bam", 
+         filename = str_c("APCL_", library_ID, "-RG.bam", sep = ""), 
+         assembly = NA) %>% 
+  select(-organism:-dev_stage)
+```
+
+# SRA requires that these files are 1000 lines or less
+```{r}
+metadata1 <- metadata %>% 
+  slice(1:999)
+metadata2 <- metadata %>% 
+  slice(1000:1998)
+metadata3 <- metadata %>% 
+  slice(1998:2886)
+```
+
+# Export the meta data tables
+```{r}
+write_tsv(metadata1, "amphiprion-clarkii-metadata1.tsv")
+write_tsv(metadata2, "amphiprion-clarkii-metadata2.tsv")
+write_tsv(metadata3, "amphiprion-clarkii-metadata3.tsv")
+```
+
+# Sending the bam files by FTP
+I logged into the FTP using Fetch following the onscreen instructions and started dragging over bam files.  
+However, the bam.bai files are also intertwined, it was taking hours, and was timing out before completing all of the transfers.  
+I copied all of the bam files into a bam files folder in the data > apcl > all_samples > 20181127 > bam\ files.  
+Maybe I can separate them into folders on my end and then just drag and drop the folder for submission. The folder transfer will take hours but hopefully it won't time out.
