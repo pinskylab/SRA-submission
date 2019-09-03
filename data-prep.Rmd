@@ -124,8 +124,17 @@ metadata <- samp_lig %>%
          design_description = "ddRADseq using PstI and MluCI, and size selected to 375 ± 38 bp", 
          filetype = "bam", 
          filename = str_c("APCL_", library_ID, "-RG.bam", sep = ""), 
-         assembly = NA) %>% 
-  select(-organism:-dev_stage)
+         assembly = NA, 
+         biosample_accession = NA
+         ) %>%
+  select(-organism:-dev_stage, -sample_name) %>% 
+  # fix names of regeno files
+  mutate(filename = ifelse(filename == "APCL_L0306-RG.bam", "APCL_L0306.L3598-RG.bam", filename), 
+          filename = ifelse(filename == "APCL_L0308-RG.bam", "APCL_L0308.L3599-RG.bam", filename),
+         filename = ifelse(filename == "APCL_L0309-RG.bam", "APCL_L0309.L3601-RG.bam", filename),
+         filename = ifelse(filename == "APCL_L0814-RG.bam", "APCL_L0814.L3644-RG.bam", filename),
+         filename = ifelse(filename == "APCL_L1188-RG.bam", "APCL_L1188.L3266.L3352-RG.bam", filename),
+         filename = ifelse(filename == "APCL_L2324-RG.bam", "APCL_L2324.L3400-RG.bam", filename))
 ```
 
 # SRA requires that these files are 1000 lines or less
@@ -145,8 +154,16 @@ write_tsv(metadata2, "amphiprion-clarkii-metadata2.tsv")
 write_tsv(metadata3, "amphiprion-clarkii-metadata3.tsv")
 ```
 
-# Sending the bam files by FTP
+# Sending the bam files by FTP - COMPRESS Folder INTO TAR!!!
 I logged into the FTP using Fetch following the onscreen instructions and started dragging over bam files.  
 However, the bam.bai files are also intertwined, it was taking hours, and was timing out before completing all of the transfers.  
 I copied all of the bam files into a bam files folder in the data > apcl > all_samples > 20181127 > bam\ files.  
 Maybe I can separate them into folders on my end and then just drag and drop the folder for submission. The folder transfer will take hours but hopefully it won't time out.
+
+# The file names don't match the metadata
+Have to go into RStudio server on amphiprion and "put" the file names into the metadata table.  Actually, there are few enough that I can hand edit the metadata table.
+
+```{r}
+
+```
+
