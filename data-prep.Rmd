@@ -85,6 +85,8 @@ samp_lig <- samp_lig %>%
          sex = ifelse(sex == "J", "not applicable", sex), 
          dev_stage = ifelse(sex == "not applicable", "juvenile", NA),
          dev_stage = ifelse(sex != "not applicable", "adult", dev_stage)) %>% 
+  # remove any non_apcl samples
+  filter(grepl("APCL", sample_name)) %>% 
   arrange(ligation_id)
 ```
 
@@ -96,7 +98,7 @@ table1 <- samp_lig %>%
 table2 <- samp_lig %>% 
   slice(1000:1998)
 table3 <- samp_lig %>% 
-  slice(1998:2886)
+  slice(1998:2881)
 ```
 
 # Export the data in tab delimited format 
@@ -127,10 +129,9 @@ metadata <- samp_lig %>%
          design_description = "ddRADseq using PstI and MluCI, and size selected to 375 ± 38 bp", 
          filetype = "bam", 
          filename = str_c("APCL_", library_ID, "-RG.bam", sep = ""), 
-         assembly = NA, 
-         biosample_accession = NA
+         assembly = NA
          ) %>%
-  select(-organism:-dev_stage, -sample_name) %>% 
+  select(-organism:-dev_stage) %>% 
   # fix names of regeno files
   mutate(filename = ifelse(filename == "APCL_L0306-RG.bam", "APCL_L0306.L3598-RG.bam", filename), 
           filename = ifelse(filename == "APCL_L0308-RG.bam", "APCL_L0308.L3599-RG.bam", filename),
@@ -166,8 +167,6 @@ Maybe I can separate them into folders on my end and then just drag and drop the
 # The file names don't match the metadata
 hand edit the metadata table because it is just a few regenotypes
 
-# Second SRA submission
-Error with BioSample identification 
 
 # The first submission is called SUB4607463
 There is an error of undefined origin, waiting for an email response
