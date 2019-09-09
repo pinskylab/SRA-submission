@@ -1,8 +1,4 @@
 sample_name	ligation_id	organism	isolate	tissue	sex	collection_date	dev_stage
-APCL12_183_L2569	L2569	Amphiprion clarkii	not applicable	tail fin	female	2012-05-11	adult
-APCL12_184_L2570	L2570	Amphiprion clarkii	not applicable	tail fin	male	2012-05-11	adult
-APCL12_189_L2571	L2571	Amphiprion clarkii	not applicable	tail fin	not applicable	2012-05-11	juvenile
-APCL12_191_L2572	L2572	Amphiprion clarkii	not applicable	tail fin	female	2012-05-11	adult
 APCL12_195_L2574	L2574	Amphiprion clarkii	not applicable	tail fin	not applicable	2012-05-11	juvenile
 APCL15_131_L2575	L2575	Amphiprion clarkii	not applicable	tail fin	not applicable	2015-06-11	juvenile
 APCL15_403603_L2576	L2576	Amphiprion clarkii	not applicable	tail fin	female	2015-06-13	adult
@@ -470,7 +466,6 @@ APCL15_403855_L3108	L3108	Amphiprion clarkii	not applicable	tail fin	not applica
 APCL15_039_L3109	L3109	Amphiprion clarkii	not applicable	tail fin	not applicable	2015-06-01	juvenile
 APCL15_043_L3110	L3110	Amphiprion clarkii	not applicable	tail fin	not applicable	2015-06-01	juvenile
 APCL16_031_L3114	L3114	Amphiprion clarkii	not applicable	tail fin	not applicable	2016-05-13	juvenile
-NA	L3118	Amphiprion clarkii	not applicable	tail fin	NA	NA	NA
 APCL12_128_L3119	L3119	Amphiprion clarkii	not applicable	tail fin	NA	2012-05-10	NA
 APCL16_006_L3123	L3123	Amphiprion clarkii	not applicable	tail fin	male	2016-05-12	adult
 APCL16_018_L3124	L3124	Amphiprion clarkii	not applicable	tail fin	not applicable	2016-05-12	juvenile
@@ -998,3 +993,8 @@ APCL18_410_L3945	L3945	Amphiprion clarkii	not applicable	tail fin	not applicable
 APCL18_411_L3946	L3946	Amphiprion clarkii	not applicable	tail fin	not applicable	2018-03-18	juvenile
 APCL18_412_L3947	L3947	Amphiprion clarkii	not applicable	tail fin	male	2018-03-18	adult
 APCL18_413_L3948	L3948	Amphiprion clarkii	not applicable	tail fin	male	2018-03-18	adult
+APCL18_414_L3949	L3949	Amphiprion clarkii	not applicable	tail fin	female	2018-03-18	adult
+APCL18_415_L3950	L3950	Amphiprion clarkii	not applicable	tail fin	male	2018-03-19	adult
+APCL18_416_L3951	L3951	Amphiprion clarkii	not applicable	tail fin	female	2018-03-19	adult
+APCL18_417_L3952	L3952	Amphiprion clarkii	not applicable	tail fin	not applicable	2018-03-19	juvenile
+APCL18_425_L3953	L3953	Amphiprion clarkii	not applicable	tail fin	female	2018-03-19	adult

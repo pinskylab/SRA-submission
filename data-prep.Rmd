@@ -9,16 +9,19 @@ Prepping data to add to SRA
 # load libraries
 # pacman::p_load(tidyverse, clownfish)
 library(tidyverse)
+
+# load functions
 source("~/Documents/clownfishr/R/gen-data-funs.R")
 source("~/Documents/clownfishr/R/field-data-funs.R")
 source("~/Documents/clownfishr/R/lab-data-funs.R")
 source("~/Documents/clownfish-pkg/R/funs-lab-meta.R")
-
-# connect to data
 # because the myconfig db connection is still not working
 source("~/db-connections.R")
+
+# connect to data
 leyte <- read_db("Leyte")
 lab <- read_db("Laboratory")
+
 ```
 # Import the template 
 The first 11 rows are instructions
@@ -161,8 +164,17 @@ I copied all of the bam files into a bam files folder in the data > apcl > all_s
 Maybe I can separate them into folders on my end and then just drag and drop the folder for submission. The folder transfer will take hours but hopefully it won't time out.
 
 # The file names don't match the metadata
-Have to go into RStudio server on amphiprion and "put" the file names into the metadata table.  Actually, there are few enough that I can hand edit the metadata table.
+hand edit the metadata table because it is just a few regenotypes
 
+# Second SRA submission
+Error with BioSample identification 
+
+# The first submission is called SUB4607463
+There is an error of undefined origin, waiting for an email response
+
+# The second submission is called SUB6249894
+- Mark no for biosample
+- upload table_2 for biosample attributes
 ```{r}
 
 ```

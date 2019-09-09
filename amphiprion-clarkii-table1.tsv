@@ -172,13 +172,11 @@ APCL13_022_L0482	L0482	Amphiprion clarkii	not applicable	tail fin	female	2013-05
 APCL13_025_L0484	L0484	Amphiprion clarkii	not applicable	tail fin	not applicable	2013-05-22	juvenile
 APCL13_538_L0491	L0491	Amphiprion clarkii	not applicable	tail fin	female	2013-06-02	adult
 APCL13_548_L0492	L0492	Amphiprion clarkii	not applicable	tail fin	female	2013-06-02	adult
-id_error_5_L0493	L0493	Amphiprion clarkii	not applicable	tail fin	NA	NA	NA
 APCL13_552_L0494	L0494	Amphiprion clarkii	not applicable	tail fin	not applicable	2013-06-02	juvenile
 APCL14_290_L0591	L0591	Amphiprion clarkii	not applicable	tail fin	female	2014-06-22	adult
 APCL14_291_L0592	L0592	Amphiprion clarkii	not applicable	tail fin	male	2014-06-22	adult
 APCL14_292_L0593	L0593	Amphiprion clarkii	not applicable	tail fin	male	2014-06-22	adult
 APCL14_299_L0594	L0594	Amphiprion clarkii	not applicable	tail fin	female	2014-06-22	adult
-id_error_3_L0596	L0596	Amphiprion clarkii	not applicable	tail fin	NA	NA	NA
 APCL14_310_L0598	L0598	Amphiprion clarkii	not applicable	tail fin	not applicable	2014-06-22	juvenile
 APCL14_313_L0599	L0599	Amphiprion clarkii	not applicable	tail fin	not applicable	2014-06-22	juvenile
 APCL14_314_L0600	L0600	Amphiprion clarkii	not applicable	tail fin	not applicable	2014-06-22	juvenile
@@ -337,7 +335,6 @@ APCL14_039_L0777	L0777	Amphiprion clarkii	not applicable	tail fin	not applicable
 APCL14_078_L0778	L0778	Amphiprion clarkii	not applicable	tail fin	male	2014-06-13	adult
 APCL14_144_L0779	L0779	Amphiprion clarkii	not applicable	tail fin	not applicable	2014-06-16	juvenile
 APCL14_145_L0780	L0780	Amphiprion clarkii	not applicable	tail fin	not applicable	2014-06-16	juvenile
-NA	L0781	Amphiprion clarkii	not applicable	tail fin	NA	NA	NA
 APCL14_162_L0782	L0782	Amphiprion clarkii	not applicable	tail fin	not applicable	2014-06-17	juvenile
 APCL14_182_L0783	L0783	Amphiprion clarkii	not applicable	tail fin	not applicable	2014-06-17	juvenile
 APCL14_187_L0784	L0784	Amphiprion clarkii	not applicable	tail fin	not applicable	2014-06-17	juvenile
@@ -401,7 +398,6 @@ APCL13_539_L0864	L0864	Amphiprion clarkii	not applicable	tail fin	not applicable
 APCL13_541_L0865	L0865	Amphiprion clarkii	not applicable	tail fin	not applicable	2013-06-02	juvenile
 APCL13_542_L0866	L0866	Amphiprion clarkii	not applicable	tail fin	male	2013-06-02	adult
 APCL13_543_L0867	L0867	Amphiprion clarkii	not applicable	tail fin	not applicable	2013-06-02	juvenile
-id_error_4_L0868	L0868	Amphiprion clarkii	not applicable	tail fin	NA	NA	NA
 APCL13_550_L0869	L0869	Amphiprion clarkii	not applicable	tail fin	not applicable	2013-06-02	juvenile
 APCL13_556_L0870	L0870	Amphiprion clarkii	not applicable	tail fin	not applicable	2013-06-03	juvenile
 APCL13_560_L0871	L0871	Amphiprion clarkii	not applicable	tail fin	male	2013-06-03	adult
@@ -998,3 +994,7 @@ APCL12_079_L2565	L2565	Amphiprion clarkii	not applicable	tail fin	NA	2012-05-09	
 APCL12_136_L2566	L2566	Amphiprion clarkii	not applicable	tail fin	NA	2012-05-10	NA
 APCL12_145_L2567	L2567	Amphiprion clarkii	not applicable	tail fin	male	2012-05-10	adult
 APCL12_155_L2568	L2568	Amphiprion clarkii	not applicable	tail fin	not applicable	2012-05-10	juvenile
+APCL12_183_L2569	L2569	Amphiprion clarkii	not applicable	tail fin	female	2012-05-11	adult
+APCL12_184_L2570	L2570	Amphiprion clarkii	not applicable	tail fin	male	2012-05-11	adult
+APCL12_189_L2571	L2571	Amphiprion clarkii	not applicable	tail fin	not applicable	2012-05-11	juvenile
+APCL12_191_L2572	L2572	Amphiprion clarkii	not applicable	tail fin	female	2012-05-11	adult

@@ -1,9 +1,4 @@
 sample_name	ligation_id	organism	isolate	tissue	sex	collection_date	dev_stage
-APCL18_413_L3948	L3948	Amphiprion clarkii	not applicable	tail fin	male	2018-03-18	adult
-APCL18_414_L3949	L3949	Amphiprion clarkii	not applicable	tail fin	female	2018-03-18	adult
-APCL18_415_L3950	L3950	Amphiprion clarkii	not applicable	tail fin	male	2018-03-19	adult
-APCL18_416_L3951	L3951	Amphiprion clarkii	not applicable	tail fin	female	2018-03-19	adult
-APCL18_417_L3952	L3952	Amphiprion clarkii	not applicable	tail fin	not applicable	2018-03-19	juvenile
 APCL18_425_L3953	L3953	Amphiprion clarkii	not applicable	tail fin	female	2018-03-19	adult
 APCL18_428_L3954	L3954	Amphiprion clarkii	not applicable	tail fin	female	2018-03-19	adult
 APCL18_429_L3955	L3955	Amphiprion clarkii	not applicable	tail fin	male	2018-03-19	adult
