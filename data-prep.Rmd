@@ -115,6 +115,18 @@ View the SRA_metadata_PADE.xlsx file in excel
 ```{r}
 # template2 <- readxl::read_xlsx("SRA_metadata_PADE.xlsx")
 ```
+Some samples have a different name and need to be replaced
+```{r}
+# open the list of files that have weird names
+replacements <- read_lines("list.txt") %>% 
+  str_extract(., "APCL_L\\d+.F-RG.bam") %>% 
+  tibble() %>% 
+  rename(sample = ".") %>% 
+  mutate(replace = str_c(str_extract(.,"APCL_L\\d+"), "-RG.bam"))
+
+
+```
+
 # create table for clarkii data
 ```{r}
 metadata <- samp_lig %>% 
@@ -138,7 +150,8 @@ metadata <- samp_lig %>%
          filename = ifelse(filename == "APCL_L0309-RG.bam", "APCL_L0309.L3601-RG.bam", filename),
          filename = ifelse(filename == "APCL_L0814-RG.bam", "APCL_L0814.L3644-RG.bam", filename),
          filename = ifelse(filename == "APCL_L1188-RG.bam", "APCL_L1188.L3266.L3352-RG.bam", filename),
-         filename = ifelse(filename == "APCL_L2324-RG.bam", "APCL_L2324.L3400-RG.bam", filename))
+         filename = ifelse(filename == "APCL_L2324-RG.bam", "APCL_L2324.L3400-RG.bam", filename)) %>% 
+  mutate(filename = ifelse(filename %in% replacements$replace, str_c("APCL_", library_ID, "-RG.bam"), filename))
 ```
 
 # SRA requires that these files are 1000 lines or less
@@ -157,6 +170,8 @@ write_tsv(metadata1, "amphiprion-clarkii-metadata1.tsv")
 write_tsv(metadata2, "amphiprion-clarkii-metadata2.tsv")
 write_tsv(metadata3, "amphiprion-clarkii-metadata3.tsv")
 ```
+
+
 
 # Sending the bam files by FTP - COMPRESS Folder INTO TAR!!!
 I logged into the FTP using Fetch following the onscreen instructions and started dragging over bam files.  
