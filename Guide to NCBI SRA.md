@@ -5,6 +5,7 @@ Are you looking to make your science more reproducible and transparent by making
 ## **Getting started**:
 Before beginning, it is helpful to read through several NCBI pages to understand the necessary data that is required for a successful upload. A good starting point is [here](https://www.ncbi.nlm.nih.gov/sra/docs/submitportal/). Understanding NCBI's data hierarchy will also be helpful for understanding how your data should be submitted.
 ####A summary of NCBI prefixes####
+
 | Prefix | Accession Name | NCBI Definition | Example |
 |--- | --- | ---|:---:|
 |PRJNA | BioProject | The goal of your research effort | [PRJNA477007](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA477007/)|
