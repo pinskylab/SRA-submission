@@ -6,12 +6,12 @@ Are you looking to make your science more reproducible and transparent by making
 Before beginning, it is helpful to read through several NCBI pages to understand the necessary data that is required for a successful upload. A good starting point is [here](https://www.ncbi.nlm.nih.gov/sra/docs/submitportal/). Understanding NCBI's data hierarchy will also be helpful for understanding how your data should be submitted.
 ####A summary of NCBI prefixes####
 | Prefix | Accession Name | NCBI Definition | Example |
---- | --- | ---|:---:|
-PRJNA | BioProject | The goal of your research effort | [PRJNA477007](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA477007/)
-SRP | Study | An object that contains project metadata describing sequencing study or project | [SRP150953](https://trace.ncbi.nlm.nih.gov/Traces/sra/sra.cgi?study=SRP150953)
-SAMN | Sample | An object that contains metadata describing the physical sample upon which a sequencing experiment was performed | [SAMN09463455](https://www.ncbi.nlm.nih.gov//biosample/SAMN09463455)
-SRX | Experiment | An object containing metadata describing the library, platform selection and processing parameters involved in a sequencing experiment | [SRX7621456](https://www.ncbi.nlm.nih.gov/sra/SRX7621456[accn])
-SRR | Run | An object containing actual sequencing data for a sequencing experiment. Experiments may contain multiple runs if multiple sequencing instrument runs were needed, but preferable data structure is one run per experiment | [SRR10954732](https://trace.ncbi.nlm.nih.gov/Traces/sra/?run=SRR10954732)
+|--- | --- | ---|:---:|
+|PRJNA | BioProject | The goal of your research effort | [PRJNA477007](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA477007/)|
+|SRP | Study | An object that contains project metadata describing sequencing study or project | [SRP150953](https://trace.ncbi.nlm.nih.gov/Traces/sra/sra.cgi?study=SRP150953)|
+|SAMN | Sample | An object that contains metadata describing the physical sample upon which a sequencing experiment was performed | [SAMN09463455](https://www.ncbi.nlm.nih.gov//biosample/SAMN09463455)|
+|SRX | Experiment | An object containing metadata describing the library, platform selection and processing parameters involved in a sequencing experiment | [SRX7621456](https://www.ncbi.nlm.nih.gov/sra/SRX7621456[accn])|
+|SRR | Run | An object containing actual sequencing data for a sequencing experiment. Experiments may contain multiple runs if multiple sequencing instrument runs were needed, but preferable data structure is one run per experiment | [SRR10954732](https://trace.ncbi.nlm.nih.gov/Traces/sra/?run=SRR10954732)|
 
 ## **Submitting**:
 **Log in on to the [SRA Submission Portal Wizard](https://submit.ncbi.nlm.nih.gov/subs/sra/)**
