@@ -4,6 +4,7 @@ Are you looking to make your science more reproducible and transparent by making
 
 ## **Getting started**:
 Before beginning, it is helpful to read through several NCBI pages to understand the necessary data that is required for a successful upload. A good starting point is [here](https://www.ncbi.nlm.nih.gov/sra/docs/submitportal/). Understanding NCBI's data hierarchy will also be helpful for understanding how your data should be submitted.
+
 ####A summary of NCBI prefixes####
 
 | Prefix | Accession Name | NCBI Definition | Example |
@@ -85,7 +86,8 @@ As genomic data are large, there are several ways to transfer your sequence data
 3. Highlight the files you want to transfer and drag into the Fetch window that is connected to the NCBI server. This will copy your files from your server to the NCBI server.
 4. Go back to the Submission Portal and select the folder to upload. It takes at least 10 minutes for transferred files to appear in the preload option.
 
-![alt text](fetch.png) Figure 3. Screenshot showing how to connect to the NCBI server using Fetch
+![alt text](fetch.png) 
+Figure 3. Screenshot showing how to connect to the NCBI server using Fetch
 
 **8. Review & submit**
 
