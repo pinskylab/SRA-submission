@@ -49,4 +49,14 @@ All *A. clarkii* raw sequence data discussed in Pinsky guide can be found under 
    - If the sample is locatable through this method, review the sample taxonomic identifier to verify APCL
      - In the event the sample name does not contain APCL, it is a non *Amphiprion clarkii* sample
 5. Refer to [Michelle Stuart's lab notebook](https://pinskylab.github.io/laboratory/laboratory-notebooks/)
-   - Locate metadata through access the *Ligations* page
+   - Access the *Ligations* page and locate the range that contains the Ligation_ID
+6. Overlay the platemaps present for the Digestion_IDs (DXXX) and the Ligation_IDs
+   - The separate platemap files are meant to act as a transition from one naming scheme to the next step (i.e. DXXX to LXXX)
+7. The previous association step is to be repeated with Digestion_IDs (DXXX) and Extraction_IDs (EXXX) under the *Digestion* page
+8.  Similar to the previous two steps, after obtaining the Extraction_ID (EXXX), access the range page for the sample(s) of interest
+9.  The *extraction.pdf* file will contain Sample_ID for all samples within the range and will need to be overlayed once again
+    - This will ultimately provide you with the Sample_ID (APCLXX_XXX)
+10. Follow the instructions to create the database in [LeyteBuildDB](https://github.com/pinskylab/leyteBuildDB)
+    - This repo houses metadata collected during field seasons
+    - Database created with R
+11. The Sample_ID (APCLXX_XXX) can be searched in this database to find all associated metadata
