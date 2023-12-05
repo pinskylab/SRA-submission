@@ -17,12 +17,8 @@ All *A. clarkii* raw sequence data discussed in Pinsky guide can be found under 
 *Uploaded Sep 2019*
 - [L0255 to L2572 SRA Submission Data](https://github.com/pinskylab/SRA-submission/blob/master/amphiprion-clarkii-table1.tsv)
 - [L0255 to L2572 Metadata](https://github.com/pinskylab/SRA-submission/blob/master/amphiprion-clarkii-metadata1.tsv)
-
-
 - [L2754 to L3953 SRA Submission Data](https://github.com/pinskylab/SRA-submission/blob/master/amphiprion-clarkii-table2.tsv)
 - [L2754 to L3953 Metadata](https://github.com/pinskylab/SRA-submission/blob/master/amphiprion-clarkii-metadata2.tsv)
-
-
 - [L3953 to L5655 SRA Submission Data](https://github.com/pinskylab/SRA-submission/blob/master/amphiprion-clarkii-table3.tsv)
 - [L3953 to L5655 Metadata](https://github.com/pinskylab/SRA-submission/blob/master/amphiprion-clarkii-metadata3.tsv)
 
