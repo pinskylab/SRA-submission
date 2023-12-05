@@ -1,0 +1,469 @@
+Sample_Name	Ligation_ID	BioProject accession	Organism	tissue	geographic location	sex	isolate	Lat	Lon	Anem_ID	Collection_Date	Size	Size_type	Tail_color	dev_stage	Collector	Notes
+APCL13_236_L0269	L0269	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.874448	124.710622	131	2013-05-27	9.2	FL	YP	adult	MLP	
+APCL13_248_L0281	L0281	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.874189	124.710685	136	2013-05-27	4.7	FL	YP	adult	MLP	
+APCL13_266_L0299	L0299	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.868842	124.716458	148	2013-05-28	3.2	FL	YR	NA	MLP	
+APCL13_271_L0304	L0304	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.868928	124.716436	152	2013-05-28	6.4	FL	O	adult	MLP	
+APCL13_272_L0305	L0305	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.868928	124.716436	152	2013-05-28	3.7	FL	YR	NA	MLP	
+APCL13_277_L0310	L0310	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.871861	124.713779	157	2013-05-28	8.8	FL	O	adult	MLP	
+APCL13_280_L0313	L0313	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.871826	124.713835	159	2013-05-28	5.1	FL	YR	NA	MLP	
+APCL13_301_L0332	L0332	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.871349	124.714184	172	2013-05-28	6.7	FL	YP	adult	MLP	
+APCL13_305_L0336	L0336	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.871358	124.714182	175	2013-05-28	7.6	FL	O	adult	MLP	
+APCL13_306_L0337	L0337	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.871358	124.714182	175	2013-05-28	4	FL	YR	NA	MLP	
+APCL13_324_L0351	L0351	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.854981	124.727633	190	2013-05-29	5.7	FL	YP	adult	MLP	
+APCL13_333_L0357	L0357	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.855341	124.726871	195	2013-05-29	6.9	FL	YP	adult	MLP	
+APCL13_334_L0358	L0358	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.855401	124.726892	196	2013-05-29	8.9	FL	O	adult	MLP	
+APCL13_340_L0361	L0361	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.855982	124.726333	200	2013-05-29	7.9	FL	YP	adult	MLP	
+APCL13_348_L0367	L0367	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.857512	124.724867	204	2013-05-29	9.3	FL	YP	adult	MLP	
+APCL13_364_L0378	L0378	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.856231	124.725936	213	2013-05-29	2.4	FL	YR	NA	MLP	
+APCL13_367_L0381	L0381	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.85624	124.725881	214	2013-05-29	6.8	FL	YP	adult	MLP	#367 sort of looks sampled already
+APCL13_369_L0383	L0383	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.856256	124.725801	215	2013-05-29	7.8	FL	O	adult	MLP	
+APCL13_384_L0395	L0395	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.856657	124.725367	220	2013-05-29	9	FL	O	adult	MLP	
+APCL13_385_L0396	L0396	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.869028	124.716467	222	2013-05-30	7.7	FL	YP	adult	MLP	
+APCL13_389_L0399	L0399	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.869036	124.716474	224	2013-05-30	5	FL	W	NA	MLP	
+APCL13_398_L0404	L0404	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.869091	124.716376	230	2013-05-30	7.8	FL	O	adult	MLP	
+APCL13_087_L0423	L0423	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.743478	124.786654	50	2013-05-24	9.8	FL	O	adult	MLP	
+APCL13_089_L0424	L0424	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.744014	124.786298	51	2013-05-24	7.9	FL	O	adult	MLP	
+APCL13_130_L0432	L0432	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.798464	124.76871	71	2013-05-25	6.8	FL	O	adult	MLP	
+APCL13_192_L0442	L0442	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.873778	124.711248	106	2013-05-27	9.2	FL	YP	adult	MLP	
+APCL13_205_L0443	L0443	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.873304	124.712004	113	2013-05-27	10.3	FL	YP	adult	MLP	
+APCL13_207_L0444	L0444	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.873354	124.712082	114	2013-05-27	8.7	FL	YP	adult	MLP	
+APCL13_001_L0447	L0447	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.744935	124.785972	NA	2013-05-22	9.8	FL	YE	adult	MLP	
+APCL13_002_L0448	L0448	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.744929	124.785858	2	2013-05-22	4.8	FL	Y	NA	MLP	
+APCL13_003_L0449	L0449	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.744929	124.785858	2	2013-05-22	9.6	FL	Y	adult	MLP	
+APCL13_426_L0450	L0450	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.86983	124.715916	250	2013-05-30	5.9	FL	W	NA	MLP	
+APCL13_005_L0455	L0455	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.744983	124.785767	4	2013-05-22	7.8	FL	Y	adult	MLP	
+APCL13_007_L0457	L0457	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.744034	124.786401	5	2013-05-22	7	FL		NA	MLP	2016-01-04: calling an adult based on size, no tail shape provided, MRS
+APCL13_008_L0458	L0458	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.744034	124.786401	5	2013-05-22	4	FL		NA	MLP	2016-01-04: calling a larva based on size, no tail shape provided, MRS
+APCL13_010_L0460	L0460	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.744081	124.786424	6	2013-05-22	5	FL	Y	NA	MLP	
+APCL13_012_L0461	L0461	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.744039	124.786303	7	2013-05-22	10.9	FL	O	adult	MLP	
+APCL13_011_L0462	L0462	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.744039	124.786303	7	2013-05-22	11.7	FL	O	adult	MLP	
+APCL13_013_L0463	L0463	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.743813	124.786508	8	2013-05-22	10.2	FL	O	adult	MLP	
+APCL13_014_L0464	L0464	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.743813	124.786508	8	2013-05-22	11.2	FL	Y	adult	MLP	
+APCL13_461_L0466	L0466	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.873783	124.710859	NA	2013-05-31	10.4	FL	YP	adult	MLP	fish were not close to any visible anem
+APCL13_466_L0467	L0467	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.873784	124.711102	266	2013-05-31	5.8	FL	YP	adult	MLP	
+APCL13_472_L0468	L0468	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.872879	124.711836	270	2013-05-31	8.9	FL	O	adult	MLP	
+APCL13_483_L0470	L0470	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.873622	124.711139	275	2013-05-31	4.3	FL	YR	NA	MLP	
+APCL13_486_L0471	L0471	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.873114	124.711957	276	2013-05-31	10.4	FL	O	adult	MLP	
+APCL13_487_L0472	L0472	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.873114	124.711957	276	2013-05-31	6.7	FL	YP	adult	MLP	
+APCL13_491_L0473	L0473	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.873109	124.712177	278	2013-05-31	7.7	FL	YP	adult	MLP	
+APCL13_493_L0474	L0474	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.873112	124.712193	279	2013-05-31	7.4	FL	O	adult	MLP	
+APCL13_498_L0478	L0478	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.873184	124.712199	281	2013-05-31	7.6	FL	YP	adult	MLP	
+APCL13_023_L0483	L0483	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.743301	124.786839	12	2013-05-22	11	FL	Y	adult	MLP	
+APCL13_027_L0485	L0485	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.764475	124.785415	14	2013-05-23	9.4	FL	O	adult	MLP	
+APCL13_028_L0486	L0486	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.764459	124.785415	16	2013-05-23	9	FL	Y	adult	MLP	
+APCL13_523_L0487	L0487	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.831177	124.750661	291	2013-06-02	9.2	FL	YP	adult	MLP	
+APCL13_529_L0488	L0488	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.836194	124.746708	293	2013-06-02	7.1	FL	O	adult	MLP	sizes measured with grid paper and converted later to cm
+APCL14_308_L0597	L0597	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.635041	124.776216	569	2014-06-22	6.3	FL	Y	NA	MRS	
+APCL14_318_L0602	L0602	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.635236	124.776108	576	2014-06-22	8	FL	O	adult	MRS	
+APCL14_330_L0606	L0606	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.871491	124.714068	633	2014-06-24	8.8	FL	YP	adult	MRS	
+APCL14_545_L0622	L0622	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.87441	124.710673	726	2014-07-02	8.4	FL	O	adult	MRS	
+APCL14_551_L0623	L0623	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.87434	124.710842	729	2014-07-02	8.1	FL	O	adult	MRS	
+APCL14_273_L0630	L0630	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.6345	124.776734	546	2014-06-22	7.5	FL	Y	adult	MRS	
+APCL14_294_L0632	L0632	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.634653	124.776364	560	2014-06-22	4.3	FL	YR	NA	MRS	
+APCL14_326_L0634	L0634	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.871511	124.714248	631	2014-06-24	7.9	FL	O	adult	MRS	
+APCL14_340_L0636	L0636	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.871502	124.71393	642	2014-06-24	3.7	FL	YR	NA	MRS	
+APCL14_469_L0637	L0637	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.855977	124.726304	690	2014-06-26	8.5	FL	YP	adult	MRS	
+APCL14_471_L0638	L0638	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.856004	124.726365	200	2014-06-26	6.4	FL	O	adult	MRS	
+APCL13_281_L0639	L0639	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.871792	124.713867	160	2013-05-28	3	FL	bW	NA	MLP	
+APCL13_299_L0640	L0640	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.871349	124.714195	171	2013-05-28	2.9	FL	YR	NA	MLP	
+APCL13_327_L0642	L0642	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.855057	124.727391	192	2013-05-29	3.9	FL	YR	NA	MLP	
+APCL13_361_L0644	L0644	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.859921	124.722831	211	2013-05-29	3.4	FL	bW	NA	MLP	
+APCL13_363_L0645	L0645	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.856231	124.725936	213	2013-05-29	6.9	FL	YP	adult	MLP	
+APCL13_394_L0647	L0647	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.869125	124.716392	227	2013-05-30	7.6	FL	O	adult	MLP	
+APCL13_395_L0648	L0648	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.869125	124.716392	228	2013-05-30	6.4	FL	YP	adult	MLP	
+APCL13_400_L0649	L0649	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.869159	124.716338	232	2013-05-30	9	FL	O	adult	MLP	#400 had an all orange tail with a clear trailing edge
+APCL13_402_L0650	L0650	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.869159	124.716338	232	2013-05-30	9.2	FL	YP	adult	MLP	
+APCL14_503_L0746	L0746	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.798713	124.768576	701	2014-06-29	4.8	FL	YR	NA	MRS	
+APCL14_501_L0766	L0766	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.809252	124.765348	699	2014-06-28	5.6	FL	Y	NA	MRS	
+APCL14_522_L0767	L0767	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.769081	124.783681	712	2014-06-29	3.8	FL	YR	NA	MRS	
+APCL14_519_L0811	L0811	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.768829	124.783754	711	2014-06-29	3.8	FL	YR	NA	MRS	
+APCL14_379_L0824	L0824	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.869908	124.715812	599	2014-06-23	9	FL	Y	adult	MRS	2015-09-01: failed extraction
+APCL14_466_L0828	L0828	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.855564	124.726863	NA	2014-06-26	5.6	FL	YR	NA	MRS	AnemID was marked as "?". It was a very busy dive and Michelle missed what number it was. Col1 was marked as "R" originally.
+APCL14_477_L0829	L0829	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.855655	124.72616	691	2014-06-26	4.6	FL	YR	NA	MRS	AND ALSO A SNAKE, I THINK (actually a goatfish)
+APCL14_489_L0830	L0830	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.857641	124.725062	674	2014-06-26	4.3	FL	WR	NA	MRS	
+APCL13_043_L0831	L0831	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.756597	124.78595	25	2013-05-23	7.6	FL	YP	adult	MLP	
+APCL13_141_L0832	L0832	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.652591	124.783262	77	2013-05-26	3.3	FL	Y	NA	MLP	
+APCL13_195_L0833	L0833	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.873778	124.711248	106	2013-05-27	5.7	FL	YR	NA	MLP	
+APCL13_235_L0834	L0834	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.874435	124.710719	129	2013-05-27	2.1	FL	YR	NA	MLP	
+APCL13_328_L0835	L0835	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.855057	124.727391	192	2013-05-29	6.1	FL	YP	adult	MLP	
+APCL13_347_L0836	L0836	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.857512	124.724867	204	2013-05-29	6.8	FL	O	adult	MLP	
+APCL13_352_L0837	L0837	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.858381	124.7244	206	2013-05-29	6.7	FL	YP	adult	MLP	
+APCL13_353_L0838	L0838	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.858381	124.7244	206	2013-05-29	3.6	FL	YR	NA	MLP	
+APCL13_357_L0839	L0839	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.85842	124.724361	208	2013-05-29	3	FL	YR	NA	MLP	
+APCL13_383_L0840	L0840	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.85673	124.725313	221	2013-05-29	6.1	FL	W	NA	MLP	
+APCL13_393_L0841	L0841	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.86913	124.716418	226	2013-05-30	4.1	FL	YR	NA	MLP	
+APCL13_411_L0842	L0842	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.869481	124.716266	240	2013-05-30	7.9	FL	YR	adult	MLP	
+APCL13_142_L0848	L0848	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.652782	124.783648	79	2013-05-26	4.2	FL	W	NA	MLP	
+APCL13_094_L0849	L0849	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.806378	124.766045	53	2013-05-25	4.1	FL	W	NA	MLP	
+APCL13_442_L0850	L0850	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.873895	124.710503	254	2013-05-31	2.7	FL	YR	NA	MLP	
+APCL13_449_L0851	L0851	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.873849	124.71059	256	2013-05-31	4.5	FL	YR	NA	MLP	
+APCL13_450_L0856	L0856	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.873751	124.710786	257	2013-05-31	7.7	FL	O	adult	MLP	
+APCL13_454_L0877	L0877	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.873714	124.710803	259	2013-05-31	2.5	FL	W	NA	MLP	
+APCL13_048_L0881	L0881	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.756284	124.785799	29	2013-05-23	4	FL	W	NA	MLP	
+APCL14_507_L0938	L0938	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.798448	124.768651	702	2014-06-29	8.4	FL	Y	adult	MRS	
+APCL14_527_L0939	L0939	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.769186	124.783696	715	2014-06-29	4.2	FL	WR	NA	MRS	
+APCL14_530_L0940	L0940	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.769002	124.783737	716	2014-06-29	6.4	FL	Y	NA	MRS	
+APCL14_534_L0941	L0941	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.755992	124.785637	720	2014-07-01	4.1	FL	WR	NA	MRS	
+APCL14_442_L0966	L0966	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.871634	124.714112	667	2014-06-24	5	FL	WR	NA	MRS	
+APCL14_496_L0968	L0968	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.809147	124.765319	697	2014-06-28	9.1	FL	O	adult	MRS	
+APCL14_500_L0969	L0969	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.809252	124.765348	699	2014-06-28	8.8	FL	Y	adult	MRS	
+APCL14_526_L0970	L0970	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.769317	124.783583	714	2014-06-29	8.5	FL	YP	adult	MRS	
+APCL14_528_L0971	L0971	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.769154	124.783695	NA	2014-06-29	9	FL	O	adult	MRS	
+APCL14_532_L0972	L0972	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.756173	124.785643	718	2014-07-01	3.8	FL	WR	NA	MRS	
+APCL13_611_L1006	L1006	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.870304	124.715302	335	2013-06-04	3.4	FL	WP	NA	MLP	
+APCL13_663_L1008	L1008	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.861288	124.721601	371	2013-06-04	4	FL	W	NA	MLP	
+APCL13_664_L1010	L1010	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.861284	124.721638	372	2013-06-04	3	FL	W	NA	MLP	
+APCL14_510_L1011	L1011	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.76727	124.784808	705	2014-06-29	4.4	FL	WR	NA	MRS	
+APCL14_497_L1012	L1012	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.809147	124.765319	697	2014-06-28	8.6	FL	O	adult	MRS	
+APCL13_187_L1023	L1023	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.87405	124.711052	105	2013-05-27	10.1	FL	O	adult	MLP	
+APCL13_207_L1024	L1024	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.873354	124.712082	114	2013-05-27	8.7	FL	YP	adult	MLP	
+APCL13_032_L1025	L1025	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.764276	124.785345	18	2013-05-23	3.7	FL	YR	NA	MLP	
+APCL13_033_L1026	L1026	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.764209	124.785343	19	2013-05-23	4.2	FL	W	NA	MLP	
+APCL13_034_L1027	L1027	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.764185	124.785353	20	2013-05-23	3.1	FL	YR	NA	MLP	
+APCL13_035_L1028	L1028	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.764185	124.785353	20	2013-05-23	4.8	FL	W	NA	MLP	
+APCL13_036_L1029	L1029	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.764199	124.785266	21	2013-05-23	2.9	FL	YR	NA	MLP	
+APCL13_038_L1030	L1030	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.764201	124.785289	22	2013-05-23	3.4	FL	W	NA	MLP	
+APCL13_047_L1031	L1031	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.756332	124.785815	28	2013-05-23	3.6	FL	bW	NA	MLP	
+APCL13_048_L1032	L1032	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.756284	124.785799	29	2013-05-23	4	FL	W	NA	MLP	
+APCL13_050_L1033	L1033	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.756221	124.785645	31	2013-05-23	9.1	FL	O	adult	MLP	
+APCL13_051_L1034	L1034	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.756221	124.785645	31	2013-05-23	4.6	FL	YR	NA	MLP	
+APCL13_052_L1035	L1035	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.756221	124.785645	31	2013-05-23	3.9	FL	YR	NA	MLP	
+APCL13_053_L1036	L1036	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.755643	124.785439	32	2013-05-23	2.6	FL	W	NA	MLP	
+APCL13_054_L1037	L1037	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.755157	124.785235	33	2013-05-23	3.2	FL	YR	NA	MLP	
+APCL13_055_L1038	L1038	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.755157	124.785235	33	2013-05-23	6.5	FL	YP	adult	MLP	
+APCL13_056_L1039	L1039	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.75509	124.785124	34	2013-05-23	3	FL	YR	NA	MLP	
+APCL13_057_L1040	L1040	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.754999	124.785127	35	2013-05-23	3.2	FL	YR	NA	MLP	
+APCL13_058_L1041	L1041	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.754999	124.785127	35	2013-05-23	6.7	FL	YR	NA	MLP	
+APCL13_059_L1042	L1042	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.754999	124.785127	35	2013-05-23	8	FL	YP	adult	MLP	
+APCL13_061_L1043	L1043	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.754371	124.784886	36	2013-05-23	4.1	FL	W	NA	MLP	
+APCL13_062_L1044	L1044	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.768407	124.784069	37	2013-05-24	5.1	FL	YR	NA	MLP	
+APCL13_063_L1045	L1045	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.768407	124.784069	37	2013-05-24	10.5	FL	O	adult	MLP	
+APCL13_064_L1046	L1046	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.768469	124.784025	38	2013-05-24	3.8	FL	YR	NA	MLP	
+APCL13_065_L1047	L1047	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.768581	124.783945	39	2013-05-24	6.6	FL	YR	NA	MLP	
+APCL13_209_L1048	L1048	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.873211	124.712084	115	2013-05-27	8.3	FL	O	adult	MLP	209 may have been sampled already
+APCL13_067_L1049	L1049	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.768598	124.783906	40	2013-05-24	4.6	FL	YR	NA	MLP	
+APCL13_068_L1050	L1050	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.768598	124.783906	40	2013-05-24	3.5	FL	YR	NA	MLP	
+APCL13_070_L1051	L1051	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.768469	124.784025	38	2013-05-24	9.3	FL	O	adult	MLP	
+APCL13_071_L1052	L1052	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.768544	124.783968	41	2013-05-24	2.9	FL	YR	NA	MLP	
+APCL13_072_L1053	L1053	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.768871	124.78372	42	2013-05-24	7.8	FL	YP	adult	MLP	7.8cm fish had slightly orange tail edges: transitional?
+APCL13_075_L1054	L1054	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.768871	124.78372	42	2013-05-24	4	FL	YR	NA	MLP	
+APCL13_076_L1055	L1055	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.76893	124.783775	43	2013-05-24	6.5	FL	YR	NA	MLP	
+APCL13_077_L1056	L1056	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.769012	124.783697	44	2013-05-24	4.8	FL	YR	NA	MLP	
+APCL13_078_L1057	L1057	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.769012	124.783697	44	2013-05-24	2.7	FL	YR	NA	MLP	
+APCL13_079_L1058	L1058	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.768961	124.783648	45	2013-05-24	3.4	FL	YR	NA	MLP	
+APCL13_080_L1059	L1059	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.768961	124.783648	45	2013-05-24	9.5	FL	O	adult	MLP	
+APCL13_082_L1060	L1060	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.769329	124.783568	46	2013-05-24	8.4	FL	O	adult	MLP	
+APCL13_083_L1061	L1061	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.769357	124.783487	47	2013-05-24	9.7	FL	YP	adult	MLP	
+APCL13_084_L1062	L1062	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.772861	124.783159	48	2013-05-24	3.6	FL	YR	NA	MLP	
+APCL13_085_L1063	L1063	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.772861	124.783159	48	2013-05-24	6.5	FL	O	adult	MLP	
+APCL13_086_L1064	L1064	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.744346	124.786579	49	2013-05-24	4.1	FL	WP	NA	MLP	
+APCL13_091_L1065	L1065	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.806323	124.766063	52	2013-05-25	8.2	FL	YP	adult	MLP	
+APCL13_092_L1066	L1066	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.806323	124.766063	52	2013-05-25	7	FL	O	adult	MLP	
+APCL13_095_L1067	L1067	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.806471	124.76602	54	2013-05-25	8.4	FL	YR	adult	MLP	
+APCL13_097_L1068	L1068	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.810726	124.764624	55	2013-05-25	10.1	FL	O	adult	MLP	
+APCL13_098_L1069	L1069	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.806471	124.76602	54	2013-05-25	3.5	FL	YR	NA	MLP	
+APCL13_100_L1070	L1070	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.810816	124.764717	56	2013-05-25	6.8	FL	YP	adult	MLP	
+APCL13_123_L1086	L1086	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.798979	124.768612	67	2013-05-25	4.2	FL	YR	NA	MLP	
+APCL13_145_L1098	L1098	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.652843	124.783702	80	2013-05-26	9.6	FL	YP	adult	MLP	anemone is embedded in branching coral
+APCL13_159_L1106	L1106	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.640521	124.780477	87	2013-05-26	7.5	FL	Y	adult	MLP	
+APCL13_176_L1159	L1159	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.63341	124.776928	98	2013-05-26	10.3	FL	O	adult	MLP	
+APCL13_177_L1160	L1160	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.63341	124.776928	98	2013-05-26	10.7	FL	YP	adult	MLP	
+APCL13_179_L1161	L1161	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.633419	124.776964	99	2013-05-26	7	FL	Y	NA	MLP	
+APCL13_181_L1162	L1162	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.633424	124.777005	100	2013-05-26	4.2	FL	Y	NA	MLP	
+APCL13_185_L1163	L1163	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.633435	124.777043	103	2013-05-26	3.1	FL	W	NA	MLP	
+APCL13_186_L1164	L1164	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.633465	124.777046	104	2013-05-26	2.6	FL	W	NA	MLP	Unclear if I actually labeled this one... didn't mark it on the data sheet
+APCL13_188_L1165	L1165	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.87405	124.711052	105	2013-05-27	5.3	FL	YR	NA	MLP	
+APCL13_190_L1166	L1166	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.874015	124.711047	107	2013-05-27	8.7	FL	O	adult	MLP	
+APCL13_196_L1169	L1169	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.873793	124.711302	108	2013-05-27	7.6	FL	YP	adult	MLP	196 had a very ragged tail
+APCL13_199_L1170	L1170	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.873672	124.711505	110	2013-05-27	4	FL	W	NA	MLP	
+APCL13_201_L1171	L1171	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.873557	124.711662	111	2013-05-27	2.7	FL	YR	NA	MLP	
+APCL13_203_L1173	L1173	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.873328	124.711907	112	2013-05-27	10.8	FL	YP	adult	MLP	
+APCL13_206_L1174	L1174	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.873304	124.712004	113	2013-05-27	10.2	FL	O	adult	MLP	
+APCL13_209_L1175	L1175	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.873211	124.712084	115	2013-05-27	8.3	FL	O	adult	MLP	209 may have been sampled already
+APCL13_210_L1176	L1176	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.873211	124.712084	115	2013-05-27	8.8	FL	YP	adult	MLP	209 may have been sampled already
+APCL13_213_L1177	L1177	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.873201	124.712093	117	2013-05-27	5.4	FL	YR	NA	MLP	
+APCL13_216_L1178	L1178	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.873354	124.712082	114	2013-05-27	8.4	FL	O	adult	MLP	
+APCL13_217_L1179	L1179	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.873401	124.712148	119	2013-05-27	8.6	FL	O	adult	MLP	
+APCL13_218_L1180	L1180	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.873401	124.712148	119	2013-05-27	8.8	FL	YP	adult	MLP	
+APCL13_027_L1207	L1207	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.764475	124.785415	14	2013-05-23	9.4	FL	O	adult	MLP	
+APCL13_028_L1208	L1208	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.764459	124.785415	16	2013-05-23	9	FL	Y	adult	MLP	
+APCL13_178_L1211	L1211	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.633419	124.776964	99	2013-05-26	8.9	FL	O	adult	MLP	
+APCL13_193_L1212	L1212	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.873778	124.711248	106	2013-05-27	9.3	FL	O	adult	MLP	
+APCL13_194_L1213	L1213	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.873778	124.711248	106	2013-05-27	3.6	FL	YR	NA	MLP	
+APCL13_202_L1214	L1214	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.873328	124.711907	112	2013-05-27	8.4	FL	O	adult	MLP	
+APCL14_388_L1236	L1236	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.870879	124.714468	NA	2014-06-23	9.6	FL	O	adult	MRS	2015-09-01: failed extraction; field notes: NO TAG
+APCL14_349_L1252	L1252	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.871672	124.714043	648	2014-06-24	4.1	FL	WR	NA	MRS	2015-09-01: failed extraction
+APCL13_026_L1255	L1255	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.764459	124.785415	16	2013-05-23	3.5	FL	Y	NA	MLP	
+APCL13_029_L1256	L1256	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.764352	124.785362	17	2013-05-23	2.7	FL	Y	NA	MLP	
+APCL13_066_L1257	L1257	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.768581	124.783945	39	2013-05-24	2.5	FL	YR	NA	MLP	
+APCL13_139_L1259	L1259	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.652103	124.784001	76	2013-05-26	12.4	FL	YP	adult	MLP	
+APCL13_151_L1262	L1262	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.640804	124.785091	85	2013-05-26	2.5	FL	YR	NA	MLP	
+APCL13_189_L1264	L1264	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.87405	124.711052	105	2013-05-27	3.5	FL	YR	NA	MLP	
+APCL13_191_L1265	L1265	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.874015	124.711047	107	2013-05-27	3.3	FL	W	NA	MLP	191 sample is two small tail pieces
+APCL13_197_L1266	L1266	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.873757	124.711338	109	2013-05-27	3.3	FL	YR	NA	MLP	
+APCL13_214_L1267	L1267	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.873216	124.7121	118	2013-05-27	4.7	FL	YR	NA	MLP	
+APCL14_499_L1273	L1273	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.809252	124.765348	699	2014-06-28	9.9	FL	O	adult	MRS	
+APCL14_387_L1281	L1281	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.870879	124.714468	NA	2014-06-23	10.1	FL	O	adult	MRS	2015-09-01: failed extraction; field notes: NO TAG
+APCL14_390_L1282	L1282	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.871378	124.714208	606	2014-06-23	9.1	FL	O	adult	MRS	2015-09-01: failed extraction
+APCL14_504_L1287	L1287	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.798448	124.768651	702	2014-06-29	7.6	FL	O	adult	MRS	
+APCL14_535_L1294	L1294	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.755818	124.78553	721	2014-07-01	4.5	FL	Y	NA	MRS	
+APCL14_531_L1296	L1296	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.76901	124.783733	717	2014-06-29	4.2	FL	WR	NA	MRS	
+APCL14_498_L1297	L1297	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.809171	124.76537	698	2014-06-28	9.3	FL	O	adult	MRS	
+APCL14_514_L1298	L1298	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.768484	124.784005	708	2014-06-29	4.1	FL	WR	NA	MRS	
+APCL14_308_L1300	L1300	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.635041	124.776216	569	2014-06-22	6.3	FL	Y	NA	MRS	
+APCL13_140_L1303	L1303	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.652591	124.783262	77	2013-05-26	4.7	FL	W	NA	MLP	140: white side of tail is pointed
+APCL13_142_L1304	L1304	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.652782	124.783648	79	2013-05-26	4.2	FL	W	NA	MLP	
+APCL13_183_L1305	L1305	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.633416	124.777017	101	2013-05-26	3.2	FL	W	NA	MLP	
+APCL13_339_L1306	L1306	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.855982	124.726333	200	2013-05-29	7.4	FL	O	adult	MLP	
+APCL13_409_L1307	L1307	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.869321	124.716396	238	2013-05-30	2.8	FL	YR	NA	MLP	
+APCL13_520_L1313	L1313	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.831177	124.750661	291	2013-06-02	8.1	FL	O	adult	MLP	
+APCL13_607_L1320	L1320	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.869944	124.715865	330	2013-06-04	3.3	FL	YR	NA	MLP	
+APCL14_126_L1321	L1321	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable			450	2014-06-16	8.1	FL	O	adult	MRS	There is no GPS data for these samples, I think the unit submerged for these minutes
+APCL14_508_L1325	L1325	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.798627	124.768745	703	2014-06-29	3.6	FL	YR	NA	MRS	
+APCL14_511_L1326	L1326	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.76727	124.784808	705	2014-06-29	7	FL	O	adult	MRS	
+APCL14_513_L1327	L1327	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.768455	124.784026	707	2014-06-29	4.6	FL	Y	NA	MRS	
+APCL14_520_L1328	L1328	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.769081	124.783681	712	2014-06-29	7.3	FL	O	adult	MRS	
+APCL14_538_L1334	L1334	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.755036	124.785063	34	2014-07-01	7.5	FL	O	adult	MRS	
+APCL14_423_L1341	L1341	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.871697	124.713987	651	2014-06-24	5.5	FL	WR	NA	MRS	
+APCL14_424_L1342	L1342	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.871694	124.713949	652	2014-06-24	5.2	FL	YR	NA	MRS	
+APCL14_425_L1343	L1343	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.871701	124.713919	653	2014-06-24	5.2	FL	WR	NA	MRS	
+APCL14_348_L1349	L1349	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.871652	124.714034	647	2014-06-24	5.1	FL	WR	NA	MRS	2015-09-01: failed extraction
+APCL14_559_L1350	L1350	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.874451	124.710608	132	2014-07-02	7.2	FL	Y	adult	MRS	
+APCL13_032_L1591	L1591	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.764276	124.785345	18	2013-05-23	3.7	FL	YR	NA	MLP	
+APCL13_033_L1592	L1592	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.764209	124.785343	19	2013-05-23	4.2	FL	W	NA	MLP	
+APCL13_036_L1593	L1593	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.764199	124.785266	21	2013-05-23	2.9	FL	YR	NA	MLP	
+APCL13_038_L1594	L1594	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.764201	124.785289	22	2013-05-23	3.4	FL	W	NA	MLP	
+APCL13_047_L1595	L1595	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.756332	124.785815	28	2013-05-23	3.6	FL	bW	NA	MLP	
+APCL13_048_L1597	L1597	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.756284	124.785799	29	2013-05-23	4	FL	W	NA	MLP	
+APCL13_050_L1598	L1598	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.756221	124.785645	31	2013-05-23	9.1	FL	O	adult	MLP	
+APCL13_051_L1599	L1599	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.756221	124.785645	31	2013-05-23	4.6	FL	YR	NA	MLP	
+APCL13_052_L1600	L1600	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.756221	124.785645	31	2013-05-23	3.9	FL	YR	NA	MLP	
+APCL13_053_L1601	L1601	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.755643	124.785439	32	2013-05-23	2.6	FL	W	NA	MLP	
+APCL13_054_L1602	L1602	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.755157	124.785235	33	2013-05-23	3.2	FL	YR	NA	MLP	
+APCL13_055_L1603	L1603	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.755157	124.785235	33	2013-05-23	6.5	FL	YP	adult	MLP	
+APCL13_056_L1604	L1604	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.75509	124.785124	34	2013-05-23	3	FL	YR	NA	MLP	
+APCL13_398_L1605	L1605	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.869091	124.716376	230	2013-05-30	7.8	FL	O	adult	MLP	
+APCL13_058_L1606	L1606	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.754999	124.785127	35	2013-05-23	6.7	FL	YR	NA	MLP	
+APCL13_059_L1607	L1607	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.754999	124.785127	35	2013-05-23	8	FL	YP	adult	MLP	
+APCL13_061_L1608	L1608	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.754371	124.784886	36	2013-05-23	4.1	FL	W	NA	MLP	
+APCL13_063_L1609	L1609	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.768407	124.784069	37	2013-05-24	10.5	FL	O	adult	MLP	
+APCL13_065_L1610	L1610	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.768581	124.783945	39	2013-05-24	6.6	FL	YR	NA	MLP	
+APCL13_068_L1611	L1611	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.768598	124.783906	40	2013-05-24	3.5	FL	YR	NA	MLP	
+APCL13_070_L1612	L1612	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.768469	124.784025	38	2013-05-24	9.3	FL	O	adult	MLP	
+APCL13_072_L1613	L1613	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.768871	124.78372	42	2013-05-24	7.8	FL	YP	adult	MLP	7.8cm fish had slightly orange tail edges: transitional?
+APCL13_080_L1614	L1614	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.768961	124.783648	45	2013-05-24	9.5	FL	O	adult	MLP	
+APCL13_083_L1615	L1615	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.769357	124.783487	47	2013-05-24	9.7	FL	YP	adult	MLP	
+APCL13_095_L1617	L1617	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.806471	124.76602	54	2013-05-25	8.4	FL	YR	adult	MLP	
+APCL13_100_L1618	L1618	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.810816	124.764717	56	2013-05-25	6.8	FL	YP	adult	MLP	
+APCL13_176_L1619	L1619	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.63341	124.776928	98	2013-05-26	10.3	FL	O	adult	MLP	
+APCL13_179_L1620	L1620	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.633419	124.776964	99	2013-05-26	7	FL	Y	NA	MLP	
+APCL13_181_L1621	L1621	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.633424	124.777005	100	2013-05-26	4.2	FL	Y	NA	MLP	
+APCL13_187_L1622	L1622	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.87405	124.711052	105	2013-05-27	10.1	FL	O	adult	MLP	
+APCL13_188_L1623	L1623	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.87405	124.711052	105	2013-05-27	5.3	FL	YR	NA	MLP	
+APCL13_196_L1624	L1624	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.873793	124.711302	108	2013-05-27	7.6	FL	YP	adult	MLP	196 had a very ragged tail
+APCL13_199_L1625	L1625	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.873672	124.711505	110	2013-05-27	4	FL	W	NA	MLP	
+APCL13_207_L1626	L1626	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.873354	124.712082	114	2013-05-27	8.7	FL	YP	adult	MLP	
+APCL13_210_L1628	L1628	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.873211	124.712084	115	2013-05-27	8.8	FL	YP	adult	MLP	209 may have been sampled already
+APCL13_236_L1629	L1629	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.874448	124.710622	131	2013-05-27	9.2	FL	YP	adult	MLP	
+APCL13_277_L1630	L1630	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.871861	124.713779	157	2013-05-28	8.8	FL	O	adult	MLP	
+APCL13_280_L1631	L1631	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.871826	124.713835	159	2013-05-28	5.1	FL	YR	NA	MLP	
+APCL13_301_L1632	L1632	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.871349	124.714184	172	2013-05-28	6.7	FL	YP	adult	MLP	
+APCL13_340_L1633	L1633	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.855982	124.726333	200	2013-05-29	7.9	FL	YP	adult	MLP	
+APCL13_348_L1634	L1634	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.857512	124.724867	204	2013-05-29	9.3	FL	YP	adult	MLP	
+APCL13_364_L1635	L1635	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.856231	124.725936	213	2013-05-29	2.4	FL	YR	NA	MLP	
+APCL13_389_L1636	L1636	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.869036	124.716474	224	2013-05-30	5	FL	W	NA	MLP	
+APCL13_034_L1639	L1639	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.764185	124.785353	20	2013-05-23	3.1	FL	YR	NA	MLP	
+APCL13_035_L1640	L1640	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.764185	124.785353	20	2013-05-23	4.8	FL	W	NA	MLP	
+APCL13_062_L1641	L1641	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.768407	124.784069	37	2013-05-24	5.1	FL	YR	NA	MLP	
+APCL13_064_L1642	L1642	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.768469	124.784025	38	2013-05-24	3.8	FL	YR	NA	MLP	
+APCL13_067_L1645	L1645	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.768598	124.783906	40	2013-05-24	4.6	FL	YR	NA	MLP	
+APCL13_071_L1646	L1646	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.768544	124.783968	41	2013-05-24	2.9	FL	YR	NA	MLP	
+APCL13_075_L1647	L1647	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.768871	124.78372	42	2013-05-24	4	FL	YR	NA	MLP	
+APCL13_076_L1648	L1648	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.76893	124.783775	43	2013-05-24	6.5	FL	YR	NA	MLP	
+APCL13_077_L1649	L1649	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.769012	124.783697	44	2013-05-24	4.8	FL	YR	NA	MLP	
+APCL13_078_L1650	L1650	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.769012	124.783697	44	2013-05-24	2.7	FL	YR	NA	MLP	
+APCL13_079_L1651	L1651	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.768961	124.783648	45	2013-05-24	3.4	FL	YR	NA	MLP	
+APCL13_357_L1652	L1652	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.85842	124.724361	208	2013-05-29	3	FL	YR	NA	MLP	
+APCL13_084_L1653	L1653	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.772861	124.783159	48	2013-05-24	3.6	FL	YR	NA	MLP	
+APCL13_085_L1654	L1654	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.772861	124.783159	48	2013-05-24	6.5	FL	O	adult	MLP	
+APCL13_086_L1655	L1655	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.744346	124.786579	49	2013-05-24	4.1	FL	WP	NA	MLP	
+APCL13_091_L1656	L1656	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.806323	124.766063	52	2013-05-25	8.2	FL	YP	adult	MLP	
+APCL13_092_L1657	L1657	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.806323	124.766063	52	2013-05-25	7	FL	O	adult	MLP	
+APCL13_097_L1658	L1658	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.810726	124.764624	55	2013-05-25	10.1	FL	O	adult	MLP	
+APCL13_352_L1660	L1660	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.858381	124.7244	206	2013-05-29	6.7	FL	YP	adult	MLP	
+APCL13_183_L1661	L1661	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.633416	124.777017	101	2013-05-26	3.2	FL	W	NA	MLP	
+APCL13_185_L1662	L1662	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.633435	124.777043	103	2013-05-26	3.1	FL	W	NA	MLP	
+APCL13_189_L1663	L1663	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.87405	124.711052	105	2013-05-27	3.5	FL	YR	NA	MLP	
+APCL13_324_L1664	L1664	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.854981	124.727633	190	2013-05-29	5.7	FL	YP	adult	MLP	
+APCL13_327_L1665	L1665	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.855057	124.727391	192	2013-05-29	3.9	FL	YR	NA	MLP	
+APCL13_367_L1666	L1666	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.85624	124.725881	214	2013-05-29	6.8	FL	YP	adult	MLP	#367 sort of looks sampled already
+APCL13_385_L1669	L1669	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.869028	124.716467	222	2013-05-30	7.7	FL	YP	adult	MLP	
+APCL13_395_L1670	L1670	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.869125	124.716392	228	2013-05-30	6.4	FL	YP	adult	MLP	
+APCL13_400_L1671	L1671	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.869159	124.716338	232	2013-05-30	9	FL	O	adult	MLP	#400 had an all orange tail with a clear trailing edge
+APCL13_402_L1672	L1672	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.869159	124.716338	232	2013-05-30	9.2	FL	YP	adult	MLP	
+APCL13_002_L1673	L1673	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.744929	124.785858	2	2013-05-22	4.8	FL	Y	NA	MLP	
+APCL13_003_L1674	L1674	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.744929	124.785858	2	2013-05-22	9.6	FL	Y	adult	MLP	
+APCL13_426_L1675	L1675	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.86983	124.715916	250	2013-05-30	5.9	FL	W	NA	MLP	
+APCL13_005_L1676	L1676	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.744983	124.785767	4	2013-05-22	7.8	FL	Y	adult	MLP	
+APCL13_461_L1677	L1677	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.873783	124.710859	NA	2013-05-31	10.4	FL	YP	adult	MLP	fish were not close to any visible anem
+APCL14_489_L1678	L1678	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.857641	124.725062	674	2014-06-26	4.3	FL	WR	NA	MRS	
+APCL14_501_L1679	L1679	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.809252	124.765348	699	2014-06-28	5.6	FL	Y	NA	MRS	
+APCL14_504_L1680	L1680	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.798448	124.768651	702	2014-06-29	7.6	FL	O	adult	MRS	
+APCL14_522_L1681	L1681	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.769081	124.783681	712	2014-06-29	3.8	FL	YR	NA	MRS	
+APCL14_526_L1682	L1682	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.769317	124.783583	714	2014-06-29	8.5	FL	YP	adult	MRS	
+APCL14_519_L1683	L1683	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.768829	124.783754	711	2014-06-29	3.8	FL	YR	NA	MRS	
+APCL14_466_L1684	L1684	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.855564	124.726863	NA	2014-06-26	5.6	FL	YR	NA	MRS	AnemID was marked as "?". It was a very busy dive and Michelle missed what number it was. Col1 was marked as "R" originally.
+APCL14_469_L1685	L1685	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.855977	124.726304	690	2014-06-26	8.5	FL	YP	adult	MRS	
+APCL14_471_L1686	L1686	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.856004	124.726365	200	2014-06-26	6.4	FL	O	adult	MRS	
+APCL13_043_L1687	L1687	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.756597	124.78595	25	2013-05-23	7.6	FL	YP	adult	MLP	
+APCL13_082_L1688	L1688	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.769329	124.783568	46	2013-05-24	8.4	FL	O	adult	MLP	
+APCL13_123_L1689	L1689	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.798979	124.768612	67	2013-05-25	4.2	FL	YR	NA	MLP	
+APCL13_235_L1690	L1690	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.874435	124.710719	129	2013-05-27	2.1	FL	YR	NA	MLP	
+APCL13_328_L1691	L1691	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.855057	124.727391	192	2013-05-29	6.1	FL	YP	adult	MLP	
+APCL13_339_L1692	L1692	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.855982	124.726333	200	2013-05-29	7.4	FL	O	adult	MLP	
+APCL13_347_L1693	L1693	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.857512	124.724867	204	2013-05-29	6.8	FL	O	adult	MLP	
+APCL13_353_L1694	L1694	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.858381	124.7244	206	2013-05-29	3.6	FL	YR	NA	MLP	
+APCL13_383_L1695	L1695	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.85673	124.725313	221	2013-05-29	6.1	FL	W	NA	MLP	
+APCL13_409_L1696	L1696	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.869321	124.716396	238	2013-05-30	2.8	FL	YR	NA	MLP	
+APCL13_411_L1697	L1697	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.869481	124.716266	240	2013-05-30	7.9	FL	YR	adult	MLP	
+APCL13_442_L1698	L1698	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.873895	124.710503	254	2013-05-31	2.7	FL	YR	NA	MLP	
+APCL13_450_L1699	L1699	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.873751	124.710786	257	2013-05-31	7.7	FL	O	adult	MLP	
+APCL13_454_L1700	L1700	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.873714	124.710803	259	2013-05-31	2.5	FL	W	NA	MLP	
+APCL14_126_L1701	L1701	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable			450	2014-06-16	8.1	FL	O	adult	MRS	There is no GPS data for these samples, I think the unit submerged for these minutes
+APCL14_503_L1702	L1702	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.798713	124.768576	701	2014-06-29	4.8	FL	YR	NA	MRS	
+APCL14_507_L1703	L1703	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.798448	124.768651	702	2014-06-29	8.4	FL	Y	adult	MRS	
+APCL14_510_L1704	L1704	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.76727	124.784808	705	2014-06-29	4.4	FL	WR	NA	MRS	
+APCL14_513_L1706	L1706	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.768455	124.784026	707	2014-06-29	4.6	FL	Y	NA	MRS	
+APCL14_514_L1707	L1707	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.768484	124.784005	708	2014-06-29	4.1	FL	WR	NA	MRS	
+APCL14_520_L1708	L1708	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.769081	124.783681	712	2014-06-29	7.3	FL	O	adult	MRS	
+APCL14_527_L1709	L1709	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.769186	124.783696	715	2014-06-29	4.2	FL	WR	NA	MRS	
+APCL14_530_L1710	L1710	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.769002	124.783737	716	2014-06-29	6.4	FL	Y	NA	MRS	
+APCL14_534_L1711	L1711	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.755992	124.785637	720	2014-07-01	4.1	FL	WR	NA	MRS	
+APCL14_535_L1712	L1712	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.755818	124.78553	721	2014-07-01	4.5	FL	Y	NA	MRS	
+APCL14_496_L1713	L1713	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.809147	124.765319	697	2014-06-28	9.1	FL	O	adult	MRS	
+APCL14_528_L1714	L1714	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.769154	124.783695	NA	2014-06-29	9	FL	O	adult	MRS	
+APCL14_532_L1715	L1715	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.756173	124.785643	718	2014-07-01	3.8	FL	WR	NA	MRS	
+APCL14_538_L1716	L1716	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.755036	124.785063	34	2014-07-01	7.5	FL	O	adult	MRS	
+APCL14_559_L1717	L1717	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.874451	124.710608	132	2014-07-02	7.2	FL	Y	adult	MRS	
+APCL13_057_L1718	L1718	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.754999	124.785127	35	2013-05-23	3.2	FL	YR	NA	MLP	
+APCL13_087_L1719	L1719	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.743478	124.786654	50	2013-05-24	9.8	FL	O	adult	MLP	
+APCL13_130_L1720	L1720	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.798464	124.76871	71	2013-05-25	6.8	FL	O	adult	MLP	
+APCL13_333_L1721	L1721	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.855341	124.726871	195	2013-05-29	6.9	FL	YP	adult	MLP	
+APCL13_334_L1722	L1722	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.855401	124.726892	196	2013-05-29	8.9	FL	O	adult	MLP	
+APCL13_651_L1725	L1725	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.860768	124.72113	NA	2013-06-04	7.7	FL	O	adult	MLP	on sand, not even close to the reef, so couldn't tag
+APCL14_307_L1728	L1728	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.635035	124.776226	568	2014-06-22	4.8	FL	YR	NA	MRS	
+APCL14_425_L1729	L1729	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.871701	124.713919	653	2014-06-24	5.2	FL	WR	NA	MRS	
+APCL14_442_L1732	L1732	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.871634	124.714112	667	2014-06-24	5	FL	WR	NA	MRS	
+APCL13_565_L1735	L1735	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.633601	124.776791	311	2013-06-03	9.6	FL	YP	adult	MLP	
+APCL13_584_L1736	L1736	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.633996	124.776721	320	2013-06-03	8.2	FL	O	adult	MLP	
+APCL13_587_L1737	L1737	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.63402	124.776658	321	2013-06-03	9.1	FL	O	adult	MLP	dark fish, took photos
+APCL14_006_L1738	L1738	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.742899	124.787067	284	2014-06-07	8.8	FL	O	adult	MLP	
+APCL14_032_L1739	L1739	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.652397	124.78372	394	2014-06-12	9.6	FL	WR	adult	MRS	
+APCL14_049_L1740	L1740	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.63357	124.776796	406	2014-06-12	8.8	FL	YR	adult	MRS	multiple pieces
+APCL14_153_L1741	L1741	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.632948	124.776961	468	2014-06-16	8.4	FL	O	adult	MRS	2016-01-11: this sample was missing from the spreadsheet, added today
+APCL14_253_L1742	L1742	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.634	124.776612	534	2014-06-22	9.3	FL	O	adult	MRS	
+APCL14_423_L1746	L1746	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.871697	124.713987	651	2014-06-24	5.5	FL	WR	NA	MRS	
+APCL14_424_L1747	L1747	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.871694	124.713949	652	2014-06-24	5.2	FL	YR	NA	MRS	
+APCL14_308_L1748	L1748	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.635041	124.776216	569	2014-06-22	6.3	FL	Y	NA	MRS	
+APCL14_497_L1749	L1749	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.809147	124.765319	697	2014-06-28	8.6	FL	O	adult	MRS	
+APCL14_499_L1750	L1750	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.809252	124.765348	699	2014-06-28	9.9	FL	O	adult	MRS	
+APCL14_500_L1751	L1751	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.809252	124.765348	699	2014-06-28	8.8	FL	Y	adult	MRS	
+APCL14_508_L1752	L1752	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.798627	124.768745	703	2014-06-29	3.6	FL	YR	NA	MRS	
+APCL14_531_L1753	L1753	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.76901	124.783733	717	2014-06-29	4.2	FL	WR	NA	MRS	
+APCL14_452_L1754	L1754	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.859822	124.722686	676	2014-06-26	7.7	FL	O	adult	MRS	
+APCL12_038_L1755	L1755	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.874118	124.710649	NA	2012-05-08	9.6	FL		adult	MLP	big fin clip; 2016-01-04: calling an adult based on size, no tail shape provided, MRS
+APCL12_081_L1758	L1758	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.872903	124.7118665	NA	2012-05-09	10.3	FL	Y	adult	MLP	#88 has oranged-edged tail, #81 has yellow tail; 2016-01-04: calling an adult based on size, no tail shape provided, MRS
+APCL12_082_L1759	L1759	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.87283825	124.7119028	NA	2012-05-09	9.1	FL	Y	adult	MLP	#82 has yellow tail, #89 has orange-edged tail
+APCL12_121_L1776	L1776	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.871505	124.714281	NA	2012-05-09	7.5	FL	O	adult	MLP	Orange-edged tail
+APCL14_499_L2201	L2201	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.809252	124.765348	699	2014-06-28	9.9	FL	O	adult	MRS	
+APCL12_084_L2208	L2208	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.87285525	124.7119735	NA	2012-05-09	6.9	FL	Y	NA	MLP	#84 has yellow tail
+APCL12_121_L2219	L2219	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.871505	124.714281	NA	2012-05-09	7.5	FL	O	adult	MLP	Orange-edged tail
+APCL13_501_L2231	L2231	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.743742	124.786381	NA	2013-06-01	8.5	FL	O	adult	MLP	Only had one streamer on tail: other cut last year?
+APCL13_512_L2240	L2240	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.74427	124.786506	287	2013-06-01	3	FL	YR	NA	MLP	#511 may have been sampled last year (tail looks cut, but not this year)
+APCL14_109_L2241	L2241	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.87361	124.711553	436	2014-06-13	4.7	FL	WR	NA	MLP	
+APCL14_124_L2242	L2242	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable			448	2014-06-16	8	FL	O	adult	MRS	There is no GPS data for these samples, I think the unit submerged for these minutes
+APCL14_128_L2243	L2243	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.652877	124.783452	451	2014-06-16	10.2	FL	O	adult	MRS	
+APCL14_138_L2246	L2246	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.633527	124.776898	458	2014-06-16	5.3	FL	YR	NA	MRS	
+APCL14_139_L2247	L2247	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.633527	124.776898	458	2014-06-16	4.8	FL	YR	NA	MRS	
+APCL14_383_L2249	L2249	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.870462	124.714834	601	2014-06-23	6.2	FL	Y	NA	MRS	2015-09-01: failed extraction; field notes: VERY bLACK AND WHITE, NO ORANGE AT ALL, YELLOW TAIL
+APCL14_387_L2251	L2251	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.870879	124.714468	NA	2014-06-23	10.1	FL	O	adult	MRS	2015-09-01: failed extraction; field notes: NO TAG
+APCL14_388_L2252	L2252	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.870879	124.714468	NA	2014-06-23	9.6	FL	O	adult	MRS	2015-09-01: failed extraction; field notes: NO TAG
+APCL14_390_L2253	L2253	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.871378	124.714208	606	2014-06-23	9.1	FL	O	adult	MRS	2015-09-01: failed extraction
+APCL14_391_L2254	L2254	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.87137	124.71421	607	2014-06-23	6.4	FL	O	adult	MRS	2015-09-01: failed extraction
+APCL14_505_L2255	L2255	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.798448	124.768651	702	2014-06-29	4.9	FL	O	adult	MRS	
+APCL14_521_L2256	L2256	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.769081	124.783681	712	2014-06-29	5.3	FL	WR	NA	MRS	
+APCL14_523_L2257	L2257	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.769192	124.783653	713	2014-06-29	9.6	FL	O	adult	MRS	
+APCL14_524_L2258	L2258	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.769192	124.783653	713	2014-06-29	5.3	FL	Y	NA	MRS	
+APCL12_045_L2260	L2260	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.874423	124.7106755	NA	2012-05-08	8.7	FL		adult	MLP	I messed up somewhere here, since #47 was written twice (but only had one fin in it). I may have written a number down, but not added a fin to the tube (the 12:38 anemone?). From 49 and onwards, I checked tubes carefully.
+APCL12_048_L2261	L2261	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.8737115	124.7111638	NA	2012-05-08	9.3	FL		adult	MLP	I messed up somewhere here, since #47 was written twice (but only had one fin in it). I may have written a number down, but not added a fin to the tube (the 12:38 anemone?). From 49 and onwards, I checked tubes carefully.
+APCL12_065_L2262	L2262	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.8737495	124.7112805	NA	2012-05-09	5.3	FL		NA	MLP	
+APCL12_114_L2271	L2271	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.87172975	124.7139693	NA	2012-05-09	5	FL		NA	MLP	
+APCL12_132_L2273	L2273	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.85631525	124.7258458	NA	2012-05-10	9.1	FL	O	adult	MLP	In a 0.5m block of rubble. #132 was orange-edged tail, #133 and #134 were yellow.
+APCL12_198_L2280	L2280	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.75336925	124.7844755	NA	2012-05-11	7.4	FL	O	adult	MLP	
+APCL12_202_L2283	L2283	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.76349825	124.7852425	NA	2012-05-11	4.5	FL	Y	NA	MLP	
+APCL12_208_L2286	L2286	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.7641795	124.7852345	NA	2012-05-11	6.3	FL	Y	NA	MLP	
+APCL12_278_L2321	L2321	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.8715705	124.71412	NA	2012-05-14	8.8	FL	O	adult	MLP	
+APCL12_279_L2322	L2322	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.8715705	124.71412	NA	2012-05-14	9.5	FL	Y	adult	MLP	
+APCL12_283_L2326	L2326	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.87080175	124.7145073	NA	2012-05-14	5.7	FL	Y	NA	MLP	
+APCL15_400899_L2330	L2330	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.65302518	124.7839797	#N/A	2015-06-11	11.1	FL	YP	adult	MRS	potential type-o
+APCL15_403710_L2335	L2335	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.63270376	124.7769033	2157	2015-06-11	9.5	FL	YP	adult	MRS	
+APCL15_405582_L2341	L2341	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.63275749	124.7767793	782	2015-06-11	7.3	FL	O	adult	MRS	
+APCL15_404319_L2342	L2342	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.63264282	124.776725	2154	2015-06-11	9.7	FL	O	adult	MRS	
+APCL14_346_L2349	L2349	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.871644	124.714029	646	2014-06-24	5.1	FL	WR	NA	MRS	
+APCL14_386_L2350	L2350	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.870879	124.714468	NA	2014-06-23	4.7	FL	Y	NA	MRS	2015-09-01: failed extraction; field notes: NO TAG
+APCL14_502_L2351	L2351	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.810646	124.7648	700	2014-06-28	3.6	FL	Y	NA	MRS	
+APCL14_506_L2352	L2352	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.798448	124.768651	702	2014-06-29	4.2	FL	YR	NA	MRS	
+APCL14_515_L2353	L2353	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.768522	124.783975	709	2014-06-29	8.2	FL	YP	adult	MRS	
+APCL14_525_L2354	L2354	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.769317	124.783583	714	2014-06-29	9.2	FL	O	adult	MRS	
+APCL14_374_L2359	L2359	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.869741	124.716071	594	2014-06-23	7.4	FL	YR	adult	MRS	2015-09-01: failed extraction; field notes: 3 HECR'S ALL TOGETHER 
+APCL12_058_L2362	L2362	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable				1899-12-30				NA	MLP	2016-02-17: This fish was not listed on the collections import sheet, 2016-01-11: could be a replacement for a duplicate of APCL12_056
+APCL12_203_L2385	L2385	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.7635375	124.7852195	NA	2012-05-11	5.2	FL	Y	NA	MLP	
+APCL14_347_L2400	L2400	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.871644	124.714029	646	2014-06-24	4	FL	YR	NA	MRS	
+APCL14_382_L2401	L2401	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.870293	124.715116	600	2014-06-23	4.4	FL	WR	NA	MRS	2015-09-01: failed extraction
+APCL14_385_L2402	L2402	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.870559	124.714802	603	2014-06-23	4.5	FL	Y	NA	MRS	2015-09-01: failed extraction
+APCL14_537_L2403	L2403	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.755112	124.785087	723	2014-07-01	5.2	FL	Y	NA	MRS	
+APCL14_369_L2409	L2409	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.869573	124.7162	592	2014-06-23	7.5	FL	O	adult	MRS	2015-09-01: failed extraction
+APCL12_054_L2412	L2412	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.874261	124.7107895	NA	2012-05-09	9.2	FL		adult	MLP	
+APCL12_080_L2420	L2420	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.873701	124.7114218	NA	2012-05-09	4.7	FL		NA	MLP	
+APCL12_080_L2421	L2421	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.873701	124.7114218	NA	2012-05-09	4.7	FL		NA	MLP	
+APCL14_349_L2447	L2447	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.871672	124.714043	648	2014-06-24	4.1	FL	WR	NA	MRS	2015-09-01: failed extraction
+APCL14_462_L2456	L2456	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.861051	124.721778	684	2014-06-26	4.7	FL	WR	NA	MRS	
+APCL14_463_L2457	L2457	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.861017	124.721767	685	2014-06-26	5.7	FL	YR	NA	MRS	DIDN'T CATCH SMALLER FISH
+APCL14_465_L2458	L2458	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.855408	124.727081	689	2014-06-26	4.1	FL	YR	NA	MRS	
+APCL14_468_L2459	L2459	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.856038	124.726383	198	2014-06-26	9.6	FL	O	adult	MRS	
+APCL14_470_L2460	L2460	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.855977	124.726304	690	2014-06-26	9	FL	O	adult	MRS	
+APCL14_473_L2466	L2466	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.855655	124.72616	691	2014-06-26	8.6	FL	O	adult	MRS	AND ALSO A SNAKE, I THINK (actually a goatfish)
+APCL14_476_L2467	L2467	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.855655	124.72616	691	2014-06-26	6.8	FL	O	adult	MRS	AND ALSO A SNAKE, I THINK (actually a goatfish)
+APCL14_483_L2468	L2468	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.855413	124.726207	693	2014-06-26	10.5	FL	O	adult	MRS	>12X 3.5 CM OR SMALLER
+APCL14_484_L2469	L2469	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.855413	124.726207	693	2014-06-26	9.8	FL	YR	adult	MRS	>12X 3.5 CM OR SMALLER
+APCL13_410_L2489	L2489	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.869466	124.716289	239	2013-05-30	5	FL	YR	NA	MLP	
+APCL13_558_L2493	L2493	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.633398	124.776942	307	2013-06-03	3.7	FL	W	NA	MLP	
+APCL13_609_L2529	L2529	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.870106	124.715314	333	2013-06-04	4.2	FL	W	NA	MLP	seem to be on outer reef edge here
+APCL14_355_L2535	L2535	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.868988	124.716446	582	2014-06-23	5.1	FL	WR	NA	MRS	2015-09-01: failed extraction
+APCL14_472_L2540	L2540	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.855655	124.72616	691	2014-06-26	8.4	FL	YP	adult	MRS	AND ALSO A SNAKE, I THINK (actually a goatfish)
+APCL14_474_L2541	L2541	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.855655	124.72616	691	2014-06-26	7	FL	YP	adult	MRS	AND ALSO A SNAKE, I THINK (actually a goatfish)
+APCL14_475_L2542	L2542	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.855655	124.72616	691	2014-06-26	5.1	FL	YR	NA	MRS	AND ALSO A SNAKE, I THINK (actually a goatfish)
+APCL14_478_L2543	L2543	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.855655	124.72616	691	2014-06-26	8.2	FL	YP	adult	MRS	AND ALSO A SNAKE, I THINK (actually a goatfish)
+APCL14_479_L2544	L2544	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.855655	124.72616	691	2014-06-26	4.4	FL	YR	NA	MRS	AND ALSO A SNAKE, I THINK (actually a goatfish)
+APCL14_480_L2545	L2545	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.855512	124.726187	692	2014-06-26	10.7	FL	YP	adult	MRS	
+APCL14_481_L2546	L2546	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.855512	124.726187	692	2014-06-26	9.8	FL	O	adult	MRS	
+APCL14_482_L2547	L2547	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.855512	124.726187	692	2014-06-26	4.7	FL	Y	NA	MRS	
+APCL14_485_L2548	L2548	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.855413	124.726207	693	2014-06-26	6.8	FL	YR	NA	MRS	>12X 3.5 CM OR SMALLER
+APCL14_486_L2549	L2549	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.855413	124.726207	693	2014-06-26	7.5	FL	YR	adult	MRS	>12X 3.5 CM OR SMALLER
+APCL14_487_L2550	L2550	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.855413	124.726207	693	2014-06-26	4.4	FL	YR	NA	MRS	>12X 3.5 CM OR SMALLER
+APCL14_488_L2551	L2551	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.855413	124.726207	693	2014-06-26	4.5	FL	YR	NA	MRS	>12X 3.5 CM OR SMALLER
+APCL14_464_L2560	L2560	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.861073	124.721724	688	2014-06-26	6.4	FL	O	adult	MRS	
+APCL14_467_L2561	L2561	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.856038	124.726383	198	2014-06-26	6.1	FL	YP	adult	MRS	
+APCL12_183_L2569	L2569	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.7565465	124.7858415	NA	2012-05-11	7.8	FL	Y	adult	MLP	
+APCL12_184_L2570	L2570	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.7565465	124.7858415	NA	2012-05-11	7.7	FL	O	adult	MLP	
+APCL12_189_L2571	L2571	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.755149	124.78508	NA	2012-05-11	4.4	FL	Y	NA	MLP	
+APCL12_191_L2572	L2572	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.755149	124.78508	NA	2012-05-11	9.5	FL	Y	adult	MLP	
+APCL15_372039_L2716	L2716	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.76888211	124.7836553	711	2015-06-07	8.5	FL	OR	adult	MRS	
+APCL15_355704_L2764	L2764	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.86088909	124.7218663	NA	2015-06-04	8.6	FL	O	adult	MRS	
+APCL15_372744_L2818	L2818	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.87388012	124.7107408	2014	2015-05-29	9.6	FL	YP	adult	MRS	
+APCL15_373627_L2819	L2819	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.87391775	124.7107896	2013	2015-05-29	6.8	FL		NA	MRS	
+APCL15_373943_L2850	L2850	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.87428966	124.7108863	730	2015-05-29	9.2	FL	O	adult	MRS	
+APCL15_355180_L2882	L2882	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.8092248	124.7652916	698	2015-06-07	9.9	FL	YP	adult	MRS	
+APCL15_401656_L2900	L2900	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.8731032	124.7116568	2017	2015-05-30	8.6	FL	O	adult	MRS	UPON CLOSER INSPECTION, THIS ANEMONE MIGHT NOT bE HEAR, NOT SO MUCH bEADED AS STRIPED HORIZONTALLY 
+APCL15_405940_L2904	L2904	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.87284889	124.7122528	876	2015-05-30	10.2	FL	OP	adult	MRS	
+APCL15_371404_L2935	L2935	    PRJNA563695	Amphiprion clarkii	Fin clip	not applicable	NA	not applicable	10.7436789	124.7867479	1235	2015-05-28	10.1	FL	O	adult	MRS	371025 kept falling out of the hole, popped out the mouth or gills when injected, no tag in this fish
