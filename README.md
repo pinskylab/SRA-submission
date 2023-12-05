@@ -12,7 +12,7 @@ All *A. clarkii* raw sequence data discussed in Pinsky guide can be found under 
 
 
 
-**BioProject accession [PRJNA563695](https://www.ncbi.nlm.nih.gov/Traces/study/?acc=SRP220170)**
+## **BioProject accession [PRJNA563695](https://www.ncbi.nlm.nih.gov/Traces/study/?acc=SRP220170)**
 
 *Uploaded Sep 2019*
 - [L0255 to L2572 SRA Submission Data](https://github.com/pinskylab/SRA-submission/blob/master/amphiprion-clarkii-table1.tsv)
@@ -33,5 +33,20 @@ All *A. clarkii* raw sequence data discussed in Pinsky guide can be found under 
   > - Metadata in unaccessible form
   > - Unable to locate metadata
 
-To access the metadata for the files on FigShare, please follow the following guide:
-1. Access 
+## To access the metadata for the files on FigShare, please follow the following guide:
+1. Access FigShare, choose sample of interest
+   - Identify the Ligation_ID (LXXX) within the sample file name
+   - If there are multiple Ligation_IDs in the sample name it is likely that the data failed to associate and the metadata must be manually associated
+2. Access the [Sample Data old](Sample_Data_old.xlsx) sheet
+3. Under the *Ligations* sheet, identify the relavant Ligation_ID of sample(s) of interest
+   - Column I contains information on the associated Pool_ID
+   - Column Q contains a sample traceback name
+     - Ex. APCL13_014
+     - Example describes taxonomic identifiers for the sample (APCL) and the year-specific collection data (13_014)
+   - If the Ligation_ID is not discoverable please skip to step 5
+4. In the *Samples* sheet search for the year-specific collection data information
+   - This information is specific to each sample
+   - If the sample is locatable through this method, review the sample taxonomic identifier to verify APCL
+     - In the event the sample name does not contain APCL, it is a non *Amphiprion clarkii* sample
+5. Refer to [Michelle Stuart's lab notebook](https://pinskylab.github.io/laboratory/laboratory-notebooks/)
+   - Locate metadata through access the *Ligations* page
